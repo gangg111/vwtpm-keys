@@ -1,18 +1,1 @@
-{"keys": [
- {
-  "blob": "HKpdHhBL1WrqK00g94oLCfG8iKG9oJScltOfuNzX3sVcC2k7pGChN2lIRao+CoOIJHUX4w==",
-  "by": "test",
-  "whoName": "Jan Kowalski",
-  "id": "aaaaaa",
-  "exp": "2026-10-14T07:33:01.018501403",
-  "who": "111111"
- },
- {
-  "blob": "Sk2hOb2Hp/8V6CgWzNhlNrgZelOO7RhaChVWB1LwATlciG/Us8ylUZYpTKms8cn9uLczdg==",
-  "by": "test",
-  "whoName": "Jan Kowalski",
-  "id": "bbbbbb",
-  "exp": "2026-10-14T05:33:01.397098121",
-  "who": "111111"
- }
-]}
+{"keys": []}
