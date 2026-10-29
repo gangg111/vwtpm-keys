@@ -1,12 +1,8 @@
-{
- "keys": [
-  {
-   "id": "4fewxd",
-   "blob": "pcwxwOyBmQC4KfOIAuvTqvllNMNNz54P0P3JcvQr\/KjzI\/mNQ4UVz7rRod+6ezbPto9efvMsfXRJS1pHlgk+qRaWUJgIEDlbV9tOtYp6+h88QI\/PXGI3qJCSY2qmhc0wK\/UujzrTHDd77ltHhvbpIrnW6gO9l8MqjPRHv3tjh0HF2BjNP2UIbtE=",
-   "exp": "2026-10-21T13:48:52.055484",
-   "by": "Administrator",
-   "who": "333334",
-   "whoName": "Jan Test"
-  }
- ]
-}
+{"keys": [{
+ "blob": "Q07HvM0s1W0yNiM9165rH2sAsO/J36aROnG6F+d/UA32PH5RqpPg0AQOxRwtjYFhHt9pPHu/8C8WwoIcnpfXQ4x4+0D5qPK3qbVHzwkBNoPJOX0n+cse7TkEEqtK+956H49MAgk5BCBKX+5z76BCNPtiuRmvUhQ9hvnN99omiecjQ2GGPaO5Qm4=",
+ "by": "test",
+ "whoName": "Test Testowy",
+ "id": "bxp9yy",
+ "exp": "2026-10-29T19:12:27.175813210",
+ "who": "900001"
+}]}
